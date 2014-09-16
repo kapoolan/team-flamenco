@@ -47,14 +47,14 @@ Chi Kit is a senior majoring computer science who is interesting Networking.  He
 
 ####Experience
 
--CS121
--CS187
--CS220
--CS230
--CS240
--CS250
--CS311
--CS305
+ - CS121
+ - CS187
+ - CS220
+ - CS230
+ - CS240
+ - CS250 
+ - CS311
+ - CS305
 
  
 ###Konor Kolb
