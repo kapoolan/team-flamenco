@@ -41,6 +41,8 @@ Xiuxiu is a senior in computer science major. She is a transfer student and now 
  - CS345
  - CS453
  
+###Konor Kolb
+
 <!--Next person continue here-->
 ----------
 
