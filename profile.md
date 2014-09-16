@@ -45,5 +45,15 @@ Xiuxiu is a senior in computer science major. She is a transfer student and now 
 
 <!--Next person continue here-->
 ----------
+###Shai He
 
+Shai He is a senior and double majoring in Math and Accounting, minoring in Computer Science. He started programming one year ago. He thinks programming and web development are amazing.
+
+###CS Courses Taken
+   -CS121
+   -CS187
+   CS Courses Taking
+   -CS220
+   -CS240
+   -CS326
 <font size=1>Version 1.0</font>
