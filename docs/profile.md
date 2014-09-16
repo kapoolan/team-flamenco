@@ -58,6 +58,15 @@ Chi Kit is a senior majoring computer science who is interesting Networking.  He
  
 ###Konor Kolb
 
+Konor Kolb is a sophomore majoring in Computer Science and minoring in Chinese language. He began programming in high school and is currently taking CS230 along with CS326. He is a good team mate who likes to organize and compromise. 
+
+###Experience
+ - Intro to HSCS (Java)
+ - Programming 1 (C++)
+ - CS187
+
+###Interests besides CS
+ - Chinese
 
 ###Shai He
 
