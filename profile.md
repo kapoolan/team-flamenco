@@ -40,7 +40,6 @@ Xiuxiu is a senior in computer science major. She is a transfer student and now 
  - CS240
  - CS345
  - CS453
- - 
  
 <!--Next person continue here-->
 ----------
