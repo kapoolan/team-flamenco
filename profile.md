@@ -73,4 +73,20 @@ Shai He is a senior and double majoring in Math and Accounting, minoring in Comp
  - CS220
  - CS240
  - CS326
+ 
+ 
+###He Wang
+
+He is a junior majoring in computer science. Her previous major is Ocean Remote Sensing.She is a transfer student and have great intreast in computer science.Web development is new to her,but it's really awesome to form a team and make a web app together with teammates.
+
+###Two college-level courses besides CS
+ - Linguistics
+ - Oceanography
+
+###CS Course taken and taking
+ - CS187
+ - CS220
+ - CS240
+ - CS326
+ - CS345
 <font size=1>Version 1.0</font>
