@@ -18,6 +18,7 @@ Cody is a junior majoring in computer science. He taught himself programming in 
 
  - CS121
  - CS187
+ - CS197U
  - CS220
  - CS230
  - CS240
@@ -60,7 +61,7 @@ Chi Kit is a senior majoring computer science who is interesting Networking.  He
 ###Konor Kolb
 
 <!--Next person continue here-->
-----------
+
 ###Shai He
 
 Shai He is a senior and double majoring in Math and Accounting, minoring in Computer Science. He started programming one year ago. He thinks programming and web development are amazing.
@@ -73,4 +74,22 @@ Shai He is a senior and double majoring in Math and Accounting, minoring in Comp
  - CS220
  - CS240
  - CS326
+ 
+###He Wang
+
+He is a junior majoring in computer science. Her previous major is Ocean Remote Sensing.She is a transfer student and have great intreast in computer science.Web development is new to her,but it's really awesome to form a team and make a web app together with teammates.
+
+###Two college-level courses besides CS
+ - Linguistics
+ - Oceanography
+
+###CS Course taken and taking
+ - CS187
+ - CS220
+ - CS240
+ - CS326
+ - CS345
+ 
+
+----------
 <font size=1>Version 1.0</font>
