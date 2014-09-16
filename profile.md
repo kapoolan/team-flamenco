@@ -2,7 +2,7 @@
 
 #What We Do
 
-As students, we are acutely aware of the difficulties surrounding keeping a schedule, remembering due dates, and still finding time to hang out with friends. At Flamenco Software, we're trying to find a way to help you "stay on top."
+####As students, we are acutely aware of the difficulties surrounding keeping a schedule, remembering due dates, and still finding time to hang out with friends. At Flamenco Software, we're trying to find a way to help you "stay on top."
 ----------
 
 
