@@ -23,6 +23,25 @@ Cody is a junior majoring in computer science. He taught himself programming in 
  - CS240
  - CS377
 
+
+###Xiuxiu Zhu
+
+Xiuxiu is a senior in computer science major. She is a transfer student and now working on networking track. She is excited about web app and feel very cool to actually make a web app. She likes the new team and hope everyone enjoy this semester. 
+
+###Favorite Course beside CS
+ - Linguistic
+ - Human Biology
+
+###CS Course taken and taking in UMASS
+ - CS187
+ - CS220
+ - CS230
+ - CS311
+ - CS240
+ - CS345
+ - CS453
+ - 
+ 
 <!--Next person continue here-->
 ----------
 
