@@ -40,37 +40,10 @@ Xiuxiu is a senior in computer science major. She is a transfer student and now 
  - CS240
  - CS345
  - CS453
-
-###Chi Kit Chiu
-
-Chi Kit is a senior majoring computer science who is interesting Networking.  He is currently taking CS377, CS453 and, CS326. He is not good at programming, but he will try his best to code the program. He think making a web app feel very exciting to him.
-
-####Experience
-
- - CS121
- - CS187
- - CS220
- - CS230
- - CS240
- - CS250 
- - CS311
- - CS305
-
  
 ###Konor Kolb
 
 <!--Next person continue here-->
 ----------
-###Shai He
 
-Shai He is a senior and double majoring in Math and Accounting, minoring in Computer Science. He started programming one year ago. He thinks programming and web development are amazing.
-
-###CS Courses Taken
- - CS121
- - CS187
-
-###CS Courses Taking
- - CS220
- - CS240
- - CS326
 <font size=1>Version 1.0</font>
