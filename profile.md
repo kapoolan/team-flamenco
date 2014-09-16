@@ -2,9 +2,7 @@
 
 #What We Do
 
-<!--Once we figure out what we do-->
-
-
+As students, we are acutely aware of the difficulties surrounding keeping a schedule, remembering due dates, and still finding time to hang out with friends. At Flamenco Software, we're trying to find a way to help you "stay on top."
 ----------
 
 
@@ -60,7 +58,6 @@ Chi Kit is a senior majoring computer science who is interesting Networking.  He
  
 ###Konor Kolb
 
-<!--Next person continue here-->
 
 ###Shai He
 
