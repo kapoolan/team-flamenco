@@ -2,7 +2,7 @@
 
 #What We Do
 
-####As students, we are acutely aware of the difficulties surrounding keeping a schedule, remembering due dates, and still finding time to hang out with friends. At Flamenco Software, we're trying to find a way to help you "stay on top."
+####
 ----------
 
 
@@ -14,13 +14,13 @@ Cody is a junior majoring in computer science. He taught himself programming in 
 
 ####Experience
 
- - CS121
- - CS187
- - CS197U
- - CS220
- - CS230
- - CS240
- - CS377
+ - CS121 Introduction to Problem Solving with Computers
+ - CS187 Programming with Data Structures
+ - CS197U A Hands-on Introduction to UNIX
+ - CS220 Programming Methodology
+ - CS230 Computer Systems Principles
+ - CS240 Reasoning Under Uncertainty
+ - CS377 Operating Systems
 
 
 ###Xiuxiu Zhu
@@ -32,13 +32,13 @@ Xiuxiu is a senior in computer science major. She is a transfer student and now 
  - Human Biology
 
 ###CS Course taken and taking in UMASS
- - CS187
- - CS220
- - CS230
- - CS311
- - CS240
- - CS345
- - CS453
+ - CS187 Programming with Data Structures
+ - CS220 Programming Methodology
+ - CS230 Computer Systems Principles
+ - CS240 Reasoning Under Uncertainty
+ - CS311 Introduction to Algorithms
+ - CS345 Practice and Applications of Data Management
+ - CS453 Computer Networks
 
 ###Chi Kit Chiu
 
@@ -46,14 +46,14 @@ Chi Kit is a senior majoring computer science who is interesting Networking.  He
 
 ####Experience
 
- - CS121
- - CS187
- - CS220
- - CS230
- - CS240
- - CS250 
- - CS311
- - CS305
+ - CS121 Introduction to Problem Solving with Computers
+ - CS187 Programming with Data Structures
+ - CS220 Programming Methodology
+ - CS230 Computer Systems Principles
+ - CS240 Reasoning Under Uncertainty
+ - CS250 Introduction to Computation
+ - CS311 Introduction to Algorithms
+ - CS305 Social Issues in Computing
 
  
 ###Konor Kolb
@@ -61,9 +61,8 @@ Chi Kit is a senior majoring computer science who is interesting Networking.  He
 Konor Kolb is a sophomore majoring in Computer Science and minoring in Chinese language. He began programming in high school and is currently taking CS230 along with CS326. He is a good team mate who likes to organize and compromise. 
 
 ###Experience
- - Intro to HSCS (Java)
- - Programming 1 (C++)
- - CS187
+ - CS121 Introduction to Problem Solving with Computers
+ - CS187 Programming with Data Structures
 
 ###Interests besides CS
  - Chinese
@@ -73,29 +72,24 @@ Konor Kolb is a sophomore majoring in Computer Science and minoring in Chinese l
 Shai He is a senior and double majoring in Math and Accounting, minoring in Computer Science. He started programming one year ago. He thinks programming and web development are amazing.
 
 ###CS Courses Taken
- - CS121
- - CS187
-
-###CS Courses Taking
- - CS220
- - CS240
- - CS326
+ - CS187 Programming with Data Structures
+ - CS220 Programming Methodology
+ - CS230 Computer Systems Principles
+ - CS240 Reasoning Under Uncertainty
  
 ###He Wang
 
 He is a junior majoring in computer science. Her previous major is Ocean Remote Sensing.She is a transfer student and have great intreast in computer science.Web development is new to her,but it's really awesome to form a team and make a web app together with teammates.
 
+###CS Course taken and taking
+ - CS187 Programming with Data Structures
+ - CS220 Programming Methodology
+ - CS240 Reasoning Under Uncertainty
+ - CS345 Practice and Applications of Data Management
+ 
 ###Two college-level courses besides CS
  - Linguistics
  - Oceanography
-
-###CS Course taken and taking
- - CS187
- - CS220
- - CS240
- - CS326
- - CS345
- 
 
 ----------
 <font size=1>Version 1.0</font>
