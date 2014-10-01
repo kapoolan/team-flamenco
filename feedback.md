@@ -12,8 +12,8 @@ when we review P02.
 You successfully used git and github to organize your project and you
 created the docs directory correctly. Currently, you do not have any
 activity on your Trello board and the activity on github is low
-especially since P02 is due today. You must make sure to show more
-activity as low activity will hurt your grade. 
+especially since P02 is due tomorrow. You must make sure to show more
+activity as low activity will hurt your grade.
 
 At this time I give your submission the following rating:
 
