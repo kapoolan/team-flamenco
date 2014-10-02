@@ -37,13 +37,13 @@
 #Problem Statement 
 ######By team, 10/1/2014
 
-Nowadays, it's difficult to gather people together to play group games, but with our website you're given a platform to connect and play with your friends, neighbors, and family. Typically, in party games people tend to ignore official rule sets in favor of their own variation. As such, we're giving users a flexible way to design their own versions of party games based on a set of tools that we provide. 
+Nowadays, it's difficult to gather people together to play group games, but with our website you're given a platform to connect and play with your friends, neighbors, and family. Typically, in party games people tend to ignore official rule sets in favor of their own variation. As such, we're giving users a flexible way to design their own versions of party games based on a set of tools that we provide.
 
 #Project Description 
 ######By team, 10/1/2014
 
 
-On the website, there will be an account system that allows people to create parties for their friends to join. Once in a party, users can communicate and play various games with each other. You can play with more than just your friends - you can open up your parties to the public, and play even if you don't have friends to play with.
+On the website, there will be an account system that allows people to create parties for their friends to join. Once in a party, users can communicate and play various games with each other. You can play with more than just your friends - you can open up your parties to the public, and play even if you don't have friends to play with. The one constant feature provided to users while playing is a "voting" feature, that is, all games can be resolved by the users without any need for a judge or a need to adhere to the rules.
 
 Users can also create their own simple games to play later with friends. To create these games, we're providing a simple engine that allows players to design any number of unique experiences. Inside the engine, the user is given the ability to use the tools that we used to create template games. For example, if the user wanted to create a game that had the users judging their friends' drawings, all he would have to do is drag a "drawable canvas" onto the "game space," add text instructions to display when the game starts, and save the game file. After that, he can open it up when playing with his friends and the rest of his party can have fun playing something he made.
 
@@ -51,11 +51,17 @@ Users can also create their own simple games to play later with friends. To crea
 ######By team, 10/1/2014
 
 Early Oct. - Build the basic foundation of the engine.
+
 Mid Oct. - Create tool sets for use by the users.
+
 Late Oct. - Build the platform the games can be played on.
+
 Early Nov. - Build the voting system for the parties.
+
 Mid Nov. - Create communication between the users (messaging, party passwords).
+
 Late Nov. - Create first template game.
+
 Early Dec. - Testing.
 
 #Costs 
