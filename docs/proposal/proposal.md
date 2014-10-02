@@ -59,7 +59,7 @@ Late Nov. - Create first template game.
 Early Dec. - Testing.
 
 #Costs 
-####By team, 10/1/2014
+######By team, 10/1/2014
 | Item              | monthly cost  
 | -------------     |:-------------:
 | domain name       | $10            
