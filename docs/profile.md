@@ -2,7 +2,7 @@
 
 #What We Do
 
-####
+####In normal games, you and your friends are judged by the rules. In ours, you have the power to decide who wins. We are going to create a website that will host a number of party games that you can play with your friends. The games will all be built on the same foundation: you're given a basic set of rules, but the winner is determined by whoever wins the vote. With an account system, users can easily find friends, join "parties," and play together. You be the judge.
 ----------
 
 
