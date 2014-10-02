@@ -66,9 +66,9 @@ Early Dec. - Testing.
 
 #Costs 
 ######By team, 10/1/2014
-| Item              | monthly cost  
+| Description       | Total Cost  
 | -------------     |:-------------:
 | domain name       | $10            
 | server hosting    | $189                                  
-| labor expenses    | $24000            
-| total             | $24199              
+| coding            | $24000            
+| total cost        | $24199              
