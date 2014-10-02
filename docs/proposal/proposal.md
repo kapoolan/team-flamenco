@@ -69,6 +69,6 @@ Early Dec. - Testing.
 | Description       | Total Cost  
 | -------------     |:-------------:
 | domain name       | $10            
-| server hosting    | $189                                  
+| server hosting    | $567                                  
 | coding            | $24000            
 | total cost        | $24199              
