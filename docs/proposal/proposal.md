@@ -1,4 +1,4 @@
-![enter image description here](https://lh5.googleusercontent.com/nEhXnU0ghYhkQZjeCiE2QtonR4yq8TlFgfsFx6SjAA=s0 "FL.png")
+![logo](https://lh5.googleusercontent.com/nEhXnU0ghYhkQZjeCiE2QtonR4yq8TlFgfsFx6SjAA=s0 "FL.png")
 
 #The Team 
 ######By team, 10/1/2014
@@ -47,6 +47,10 @@ On the website, there will be an account system that allows people to create par
 
 Users can also create their own simple games to play later with friends. To create these games, we're providing a simple engine that allows players to design any number of unique experiences. Inside the engine, the user is given the ability to use the tools that we used to create template games. For example, if the user wanted to create a game that had the users judging their friends' drawings, all he would have to do is drag a "drawable canvas" onto the "game space," add text instructions to display when the game starts, and save the game file. After that, he can open it up when playing with his friends and the rest of his party can have fun playing something he made.
 
+#Our Experiences
+######By Cody, 10/2/2014
+A number of our members have taken courses related to linguistics, and we're going to try and integrate that into how we encourage communication between our members and their friends. Experience in psychology classes will allow us to avoid likely problems surrounding creation and our voting system, such as group bias for or against some players leading to us making the voting system anonymous. There's also the natural tendency to ignore rules, which is why we're allowing so much flexibility in how you play your games.
+
 #Timeline 
 ######By team, 10/1/2014
 
@@ -69,6 +73,6 @@ Early Dec. - Testing.
 | Description       | Total Cost  
 | -------------     |:-------------:
 | domain name       | $10            
-| server hosting    | $567                                  
-| coding            | $24000            
-| total cost        | $24577             
+| server hosting    | $567 ($189 per month)                                 
+| coding            | $24000 ($4000 per developer)        
+| total             | $24577             
